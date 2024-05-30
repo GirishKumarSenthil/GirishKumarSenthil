@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @GirishKumarSenthil
-- 👀 I’m interested in ...full stack development
-- 🌱 I’m currently learning ...frontend development
 - 📫 How to reach me ...ping me @girishkumarsenthil@gmail.com
 
 <!---
